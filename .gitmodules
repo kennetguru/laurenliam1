@@ -1,0 +1,3 @@
+[submodule "kenneth2"]
+	path = kenneth2
+	url = https://github.com/kennetguru/kenneth2.git
